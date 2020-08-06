@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Đỗ Văn Cường",
+        "tel": "0329329392",
+        "Permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Nguyễn Thị Trinh",
+        "tel": "0328324322",
+        "Permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Tạ Thị Bích",
+        "tel": "0293423742",
+        "Permission": 3
+    },
+    {
+        "id": 4,
+        "name": "Nguyễn Xuân Tùng",
+        "tel": "0232342394",
+        "Permission": 3
+    },
+    {
+        "id": 5,
+        "name": "Trần Tuấn Tú",
+        "tel": "099932323",
+        "Permission": 1
+    },
+    {
+        "id": 6,
+        "name": "Phan Hồng Nhung",
+        "tel": "0993323432",
+        "Permission": 2
+    }
+]
